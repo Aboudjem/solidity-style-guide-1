@@ -95,7 +95,7 @@ event UpdatedOwner(address newOwner);
 
 ##### A. Prefer Named Return
 
-**Rule:** Use named return arguments for gas efficiency and clarity, especially in functions with multiple return values.
+Use named return arguments for gas efficiency and clarity, especially in functions with multiple return values.
 
 **Yes:**
 
